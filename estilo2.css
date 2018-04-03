@@ -1,0 +1,92 @@
+.cuerpo{
+    width: 200px;
+    height: auto;
+    position: relative;
+    top: 20px;
+    left: 0px;
+    background-color: cadetblue;
+    box-shadow: 2px 1px 8px black;
+    box-sizing: border-box;
+}
+
+#contenidos {
+    position:static;
+    width: 100%;
+    top: 0px;
+    left: 0px;
+    box-sizing: border-box;
+}
+
+#contenidos h5{
+    background-color:gainsboro;
+    margin-top: 0px;
+    padding-left: 10px;
+    font-size: 17px;
+}
+
+#contenidos ul{
+    list-style: none;
+    margin-left: -30px;
+    padding-bottom: 5px;
+}
+
+#contenidos li{
+    display: block;
+    border-bottom: solid 1px gray;
+}
+
+#empresax {
+    position: static;
+    width: 100%;
+    margin-top: -15px;
+    box-sizing: border-box;
+}
+
+#empresax h5{
+    background-color:gainsboro;
+    margin-top: 0px;
+    padding-left: 10px;
+    font-size: 17px;
+}
+
+#empresax ul{
+    list-style: none;
+    margin-left: -30px;
+    padding-bottom: 5px;
+}
+
+#empresax li{
+    display: block;
+    border-bottom: solid 1px gray;
+}
+
+#buscar{
+    position: relative;
+    width: 100%;
+    height: 25px;
+    margin-top: -15px;
+    box-sizing: border-box;
+}
+
+#buscar h5{
+    background-color:gainsboro;
+    margin-top: 0px;
+    padding-left: 10px;
+    font-size: 17px;
+}
+
+#input{
+    position: static;
+    top: -20px;
+    padding-left: 10px;
+}
+
+
+
+
+
+
+
+
+
+

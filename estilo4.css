@@ -1,0 +1,9 @@
+.centro{
+    position:absolute;
+    width: 65vw;
+    height: 100vh;
+    top: 130px;
+    left: 215px;
+    margin-left: 20px;
+    box-sizing: border-box;
+}

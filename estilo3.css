@@ -1,0 +1,44 @@
+.info{
+    position: absolute;
+    width: 200px;
+    height: 100%;
+    top: 134px;
+    right: 8px;
+    box-shadow: 3px -2px 5px black;
+    box-sizing: border-box;
+}
+
+#novedades {
+    position: static;
+    width: 180px;
+    height: auto;
+    margin-left: 10px;
+    box-sizing: border-box;
+}
+
+#novedades h3{
+    font-size: 16px;
+    background-color: gainsboro;
+    padding-bottom: 3px;
+}
+
+#novedades h5{
+    font-size: 15px;
+}
+
+#descargas{
+    position: static;
+    width: 180px;
+    height: auto;
+    box-sizing: border-box;
+    margin-left: 10px;
+}
+
+#descargas h3{
+    background-color: gainsboro;
+    font-size: 16px;
+}
+
+#descargas h5{
+    font-size: 15px;
+}
